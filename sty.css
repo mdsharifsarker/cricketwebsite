@@ -1,0 +1,94 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.wrapper{
+	width:100%;
+	margin:0 auto;
+	border-left:1px solid green;
+	border-right:1px solid green;
+}
+.head{
+	background:green;
+	width:100%;
+	height:20px;
+	text-align:center;
+	padding:7px 0px;
+	color:white;
+	font-size:20px;
+	display:block;
+	overflow:hidden;
+}
+<!--
+.nav{
+	list-style:none;
+	width:100%;
+	background:orange;
+	min-height:38px;
+	border:1px solid green;
+}
+.nav li{
+	    border-right:1px solid green;
+	float:left;
+	position:relative;
+	
+}
+.nav li a{
+	text-decoration:none;
+    color:blue;
+
+   display:block;	
+   padding:10px 35px;
+   transition:background 1s ease;
+}
+.nav li a:hover{
+	background:blue;
+	color:white;
+}
+.nav ul {
+	list-style:none;
+	background:orange;
+	position:absolute;
+	left:-99999px;
+}
+.nav ul li{
+	float:none;
+}
+.nav ul li a{
+	border-right:none;
+	border-top:1px solid green;
+	width:120px;
+}
+nav li:hover ul{
+	left:0px;
+}
+-->
+img{
+	width:100%;
+	height:400px;
+	display:block;
+	vertical-align:baseline;
+}
+.sm{
+	height:200px;
+	width:300px;
+	float:left;
+margin-right:40px;	
+}
+.sm1{
+		height:200px;
+	width:300px;
+	float:right;
+margin-left:40px;	
+}
+h2{
+	background:green;
+	border-radius:2px;
+	text-align:center;
+	color:orange;
+}
+.sharif{
+	text-align:justify;
+}
+
